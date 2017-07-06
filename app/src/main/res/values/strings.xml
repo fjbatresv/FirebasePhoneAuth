@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneAuth</string>
+    <string name="campo_numero_hint">0000 0000</string>
+    <string name="campo_code_hint">Codigo</string>
+    <string name="title">Bienvenido ingresa tu numero</string>
+    <string name="btn">Continuar</string>
+    <string name="message_sent">Mensaje enviado</string>
+    <string name="success">Bienvenido</string>
+    <string name="fail">Ingreso fallido</string>
+</resources>
